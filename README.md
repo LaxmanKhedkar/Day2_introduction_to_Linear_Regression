@@ -3,7 +3,7 @@
 Welcome to my **Linear Regression Project**! 🚀  
 This repository demonstrates the complete process of building a **Linear Regression model** from scratch — starting with understanding the theoretical concepts, performing data preprocessing, visualizing data, training the model, and evaluating its performance.  
 
----
+--- 
 
 ## 📖 Overview
 
